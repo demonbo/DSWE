@@ -1,0 +1,33 @@
+User requirements:
+	General:
+	1. This is annual report so that staffs don't remember the exact day to submit it. They could miss the deadline or submit late, therefore the system must be able to notify them by email or send message to their phone.
+	2. The system saves the date time when CMR is approved by the CM and displays it above the name of CM when some one view the approved CMR.
+	3. System send notification to all staffs who relate CMR anytime it is created or updated.
+	4. University has many faculties, each faculty has a guest account to view approved CMR.
+	5. Many guest accounts can be log in at the same time.
+	6. Staff 's account be used to log in for only one person at a time. If someone uses it, system will prevent it and display a message on browser of the person who is logging in.
+	7. For each CMR, there are 2 chooses for CM to decide:
+		- "Approved" to confirm the CMR, and send it to PVC, DLT. 
+		- "Denied" to reopen it for CL to edit.
+	8. Build report system. (trien khai them)
+	
+	For DLT:
+	9. Allow comment  within 14 days.
+	
+	For admin account:
+	10. Admin takes responsibility of manage accounts, he must has an interface to manage account effectively.
+	11. Admin cannot know staffs' password, and also cannot change them.
+	12. Admin is the only one who can create staff account.
+	13. Admin is allowed to change account role.
+	
+	Product deliverability:
+	14. Product must be delivered as package of function for staff to use along side with the product's development.
+	
+	Product interface:
+	15. The interface must be clear, easy to use. The staffs don't need to train before using it.
+	16. The interface must be scalable for any device.
+	
+	Legal, social, ethical, and professional:
+	17. Packages are delivered on time.
+	18. Develop team takes full responsibility for the all resources that are used in this project. They must be responsible before the law for any illegal, social, or unethical issues about project resource.
+        19. It must be approved by product owner before using any logo, slogan, name of the university before use them. Provide a clear document about what and where they are used for product owner to sign.
